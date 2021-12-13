@@ -8,5 +8,10 @@ List of supported IoCs to search for (checked in this order):
 * MD5 hash
 * Domain name
 
-Instructions
-* ````git clone 
+
+### Installation Instructions
+
+* ```git clone https://github.com/mkol5222/search-th-extension.git```
+* open Chrome at chrome://extensions
+* enable Developer Mode
+* "Load Unpacked" extension from local folder *search-th-extension*
