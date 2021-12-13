@@ -1,0 +1,16 @@
+{
+    "name": "Search Check Point Threat Hunting",
+    "version": "0.0.1",
+    "description": "Extension to speedup lookup of IoCs in Check Point's Threat Hunting via right click at selection in web page",
+    "permissions": ["contextMenus", "tabs"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "icons": {
+      "16" : "icon16.png",
+       "48" : "icon48.png",
+       "128" : "icon128.png"
+    }, 
+    "manifest_version": 2
+  }
