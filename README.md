@@ -8,6 +8,9 @@ List of supported IoCs to search for (checked in this order):
 * MD5 hash
 * Domain name
 
+### Usage
+
+![Screenshot](/screenshot-rightclick.png)
 
 ### Installation Instructions
 
